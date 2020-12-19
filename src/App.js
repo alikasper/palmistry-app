@@ -8,16 +8,18 @@ import Heart from './components/Heart';
 import Life from './components/Life';
 import Sources from './components/Sources';
 
+import HomeIcon from './components/images/home-icon.png';
+
 function App() {
   return (
     <div className="App">
       <header>
-        <Link to="/">Home</Link>
+        <Link to="/"><img src={HomeIcon} alt="home button" /></Link>
         <div className="navs">
-          <Link to="/fate">Fate</Link>
-          <Link to="/head">Head</Link>
-          <Link to="/heart">Heart</Link>
-          <Link to="/life">Life</Link>
+          <Link to="/life">LIFE</Link>
+          <Link to="/heart">HEART</Link>
+          <Link to="/head">HEAD</Link>
+          <Link to="/fate">FATE</Link>
         </div>
       </header>
 
@@ -33,8 +35,8 @@ function App() {
       </main>
 
       <footer>
-        <div>
-          <Link to="/sources">Sources</Link>
+        <div className="sources">
+          <Link to="/sources">SOURCES</Link>
         </div>
       </footer>
 
