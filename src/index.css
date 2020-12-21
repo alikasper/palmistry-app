@@ -4,6 +4,7 @@
 
 body {
   background-color: #ECE0D5;
+  color: #202638;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -84,11 +85,7 @@ p {
 }
 
 .navs a:active {
-  color: #89A7A7;
-}
-
-.navs a:hover {
-  color: #89A7A7;
+  text-decoration: line-through;
 }
 
 .navs a:link {
@@ -97,6 +94,23 @@ p {
 
 .navs a:visited {
   color: #202638;
+}
+
+.reading {
+  font-family: 'Roboto Mono', monospace;
+  font-size: 1em;
+  letter-spacing: .01em;
+}
+
+.selected {
+  color: #89A7A7;
+}
+
+.selectHeader {
+  font-weight: bold;
+  font-family: 'Eczar', serif;
+  font-size: 1.25em;
+  letter-spacing: .07em;
 }
 
 .sources a {
