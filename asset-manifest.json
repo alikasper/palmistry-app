@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/palmistry-app/static/css/main.d6816069.chunk.css",
+    "main.js": "/palmistry-app/static/js/main.2c5af0bd.chunk.js",
+    "main.js.map": "/palmistry-app/static/js/main.2c5af0bd.chunk.js.map",
+    "runtime-main.js": "/palmistry-app/static/js/runtime-main.e56b0ab5.js",
+    "runtime-main.js.map": "/palmistry-app/static/js/runtime-main.e56b0ab5.js.map",
+    "static/js/2.155c3153.chunk.js": "/palmistry-app/static/js/2.155c3153.chunk.js",
+    "static/js/2.155c3153.chunk.js.map": "/palmistry-app/static/js/2.155c3153.chunk.js.map",
+    "static/js/3.fcda05d5.chunk.js": "/palmistry-app/static/js/3.fcda05d5.chunk.js",
+    "static/js/3.fcda05d5.chunk.js.map": "/palmistry-app/static/js/3.fcda05d5.chunk.js.map",
+    "index.html": "/palmistry-app/index.html",
+    "static/css/main.d6816069.chunk.css.map": "/palmistry-app/static/css/main.d6816069.chunk.css.map",
+    "static/js/2.155c3153.chunk.js.LICENSE.txt": "/palmistry-app/static/js/2.155c3153.chunk.js.LICENSE.txt",
+    "static/media/fate_line.d3da358b.png": "/palmistry-app/static/media/fate_line.d3da358b.png",
+    "static/media/head_line.b1d900b0.png": "/palmistry-app/static/media/head_line.b1d900b0.png",
+    "static/media/heart_line.53d2725f.png": "/palmistry-app/static/media/heart_line.53d2725f.png",
+    "static/media/landing-page.c6a65a4c.png": "/palmistry-app/static/media/landing-page.c6a65a4c.png",
+    "static/media/life_line.d0307ff9.png": "/palmistry-app/static/media/life_line.d0307ff9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e56b0ab5.js",
+    "static/js/2.155c3153.chunk.js",
+    "static/css/main.d6816069.chunk.css",
+    "static/js/main.2c5af0bd.chunk.js"
+  ]
+}
